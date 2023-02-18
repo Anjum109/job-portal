@@ -13,8 +13,8 @@ const BangladeshiCompany = () => {
 
     return (
         <div>
-            <h2 className='text-center text-sky-900 font-bold text-2xl mt-12'>Top 3 Bangladeshi IT Comapnies</h2>
-            <div className='grid grid-cols-1 gap-0 mx-28 mt-5'>
+            <h2 className='text-center text-sky-900 font-bold text-1sxl mt-12'>Top 3 Bangladeshi IT Comapnies</h2>
+            <div className='grid grid-cols-1 gap-0 lg:mx-28 mt-5'>
                 {
                     bdCompany.map(bdCompanyCard => <BdCompanyCard
                         key={bdCompanyCard.id}

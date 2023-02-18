@@ -14,7 +14,7 @@ const ExperienceJob = () => {
     return (
         <div>
             <h2 className='text-center text-sky-900 font-bold text-5xl mt-12'>Experienced Job</h2>
-            <div className='grid grid-cols-1 lg:grid-cols-2 gap-0 mx-28 mt-12'>
+            <div className='grid grid-cols-1 lg:grid-cols-2 gap-0 lg:mx-28 mt-12'>
                 {
                     experienceJob?.slice(0, 6).map(card => <ExperienceJobCard
                         key={card.id}

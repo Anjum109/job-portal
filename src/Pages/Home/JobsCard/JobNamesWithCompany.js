@@ -11,7 +11,7 @@ const JobNamesWithCompany = ({ category }) => {
                     <p>Intern {position}</p>
                     <p>{job_location}</p>
                     <Link to='/viewdetailsaboutfreshersjob'><img src="https://assets.codepen.io/2301174/icon-supervisor.svg" alt="" /></Link>
-                    <button className=' border border-sky-200 px-3 py-2 mt-3 bg-sky-50 text-sky-800 hover:bg-sky-900 hover:text-white font-bold'>Apply Now</button>
+                    <Link to='applynow'> <button className=' border border-sky-200 px-3 py-2 mt-3 bg-sky-50 text-sky-800 hover:bg-sky-900 hover:text-white font-bold'>Apply Now</button></Link>
                 </div></div>
         </div>
     );
