@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "job_location": "Dhaka , Bangladesh",
+        "company_name": "TigerIT Bangladesh LTD",
+        "company_logo": "https://www.tigerit.com/img/ti-logo.png",
+        "details": "Tiger it has 10 years of experience working in software development. It is one of the best software companies around Bangladesh to create the Automated Fingerprint Identification System (AFIS). In 2008, for the general election of Bangladesh, Tiger it build a complete software of the national id and voter registration project. There are 20,000 personnel, 500id management servers made by Tiger it.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx1JkNJ8lzpKkwJQjzltUsU8UNzpGVXh9SnQ&usqp=CAU"
+    },
+    {
+        "id": "1",
+        "job_location": "Dhaka , Bangladesh",
+        "company_name": "Datasoft Systems BD ltd",
+        "company_logo": "http://datasoft-bd.com/wp-content/themes/DataSoft/img/DS-logo.png",
+        "details": "Data Soft is well known as the first CMMI Level 5 software development company in Bangladesh. In both Corporate and public sectors, Data soft delivered innovative and cost effective technical services for the customers. In design and create projects, It has contributed significantly to the digitalization of Bangladesh.",
+        "image": "http://datasoft-bd.com/wp-content/uploads/2018/11/20-year-for-website.jpg"
+    },
+    {
+        "id": "1",
+        "job_location": "Dhaka , Bangladesh",
+        "company_name": "Newscred",
+        "company_logo": "https://futurestartup.com/wp-content/uploads/2020/07/NewsCred.jpg",
+        "details": "Newscred working on a mission to reinvent marketing for everyone. They prioritize the trust over everything because it is the foundation of their values. They love working together and believing in the power of tightly-knit company. The employer’s bring solutions when they face challenges and lead encourage, support their colleagues.",
+        "image": "https://www.optimizely.com/globalassets/02.-global-images/illustrations/for-light-backgrounds/orchestrate_illustration.svg"
+    }
+]

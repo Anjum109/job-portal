@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "job_location": "Dhaka , Bangladesh",
+        "company_name": "Microsoft",
+        "company_logo": "https://www.tigerit.com/img/ti-logo.png",
+        "details": "Microsoft is the world’s leading and valuble and the most visible IT company, with over $161 billion in revenue in 2022. Microsoft Corporation was founded in 1975 by Bill Gates and Paul Allen in Redmond, Washington, and is one of the world’s largest technology companies.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx1JkNJ8lzpKkwJQjzltUsU8UNzpGVXh9SnQ&usqp=CAU"
+    },
+    {
+        "id": "1",
+        "job_location": "Dhaka , Bangladesh",
+        "company_name": "Hewlett Packard Enterprise (HP)",
+        "company_logo": "http://datasoft-bd.com/wp-content/themes/DataSoft/img/DS-logo.png",
+        "details": "Hewlett Packard Enterprise is a global technology company that provides IT, technology, and enterprise products, solutions, and services. Based in Palo Alto, California, HP creates and sells hardware components, software, and related services to consumers, small and medium-sized businesses (SMBs), large enterprises, and customers in the government, health, and education sectors. ",
+        "image": "http://datasoft-bd.com/wp-content/uploads/2018/11/20-year-for-website.jpg"
+    },
+    {
+        "id": "1",
+        "job_location": "Dhaka , Bangladesh",
+        "company_name": "IBM",
+        "company_logo": "https://futurestartup.com/wp-content/uploads/2020/07/NewsCred.jpg",
+        "details": "IBM, which stands for International Business Machines, is the world’s largest IT services company, with over 300 offices and 2,82,100 employees working in over 177 countries. On June 16, 1911, financial capitalist Charles Ranlett Flint founded the American company, with its headquarters in Armonk, New York, USA.",
+        "image": "https://www.optimizely.com/globalassets/02.-global-images/illustrations/for-light-backgrounds/orchestrate_illustration.svg"
+    }
+]
